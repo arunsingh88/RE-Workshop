@@ -6,11 +6,10 @@ Transform how your organization extracts actionable insights from financial docu
 
 ---
 
-## Opening Hook (3 minutes)
 
 **"The Executive's Dilemma"**
 
-*Start with a relatable scenario:*
+
 
 "Last month, you received a 47-page quarterly financial report. You have 20 minutes between board meetings. How do you extract the 3 most critical insights that could reshape your strategy?"
 
