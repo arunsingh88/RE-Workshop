@@ -113,14 +113,7 @@ By the end of this session, you'll see how AI can turn hours of document analysi
 
 ---
 
-## Call to Action (5 minutes)
 
-### Your Next 30 Days
-
-**Week 1**: Identify your highest-value, most time-consuming financial documents
-**Week 2**: Test the AI podcast feature with your next quarterly review
-**Week 3**: Share insights with your leadership team
-**Week 4**: Integrate into your regular decision-making process
 
 ### Success Metrics
 - **Time Efficiency**: Hours saved per week on document analysis
