@@ -157,6 +157,53 @@ Transform your relationship with financial data from reactive analysis to proact
 - ROI measurement framework
 - Implementation timeline and checklist
 
+Workshop Prompts and Demonstration Script
+Phase 1: Upload and Initial Analysis
+Prompt to use when uploading documents:
+
+"Please analyze these financial and strategic documents for a C-level executive briefing. I need insights on: 1) Our current financial performance vs industry benchmarks, 2) Major strategic opportunities and threats, 3) Competitive positioning and risks, 4) Key decisions needed for the leadership team. Focus on executive-level insights rather than detailed financial analysis."
+
+Phase 2: Generate Strategic Questions
+Follow-up prompts for deeper insights:
+
+"Based on these documents, what are the top 3 strategic priorities our leadership team should focus on in the next 6 months?"
+
+
+"What competitive threats should we be most concerned about, and what actions should we take immediately?"
+
+
+"If you were presenting to our board of directors, what would be your key talking points and recommendations?"
+
+Phase 3: Podcast Generation Command
+For Audio Overview generation:
+
+"Create an executive briefing podcast discussing these financial and strategic documents. The audience is C-level executives who need to understand: key performance insights, strategic opportunities, competitive threats, and actionable recommendations. Keep the discussion at a strategic level suitable for board-level decision making."
+
+Workshop Demonstration Script
+Minute 8-12: Live Demo
+[Upload documents]
+"I'm now uploading four critical documents that every leadership team deals with: our quarterly financial results, industry benchmarks, board strategic planning materials, and competitive intelligence. This represents about 47 pages of dense financial and strategic information."
+[Use initial analysis prompt]
+"Now I'll ask NotebookLM to analyze all of this from a CEO perspective..."
+[Show results - highlight key insights]
+"Notice how it immediately identifies that our customer acquisition costs are rising faster than industry benchmarks, and connects this to competitive pressure from AI-native startups. It's synthesizing information across all four documents simultaneously."
+[Generate follow-up questions]
+"Let me ask about strategic priorities..."
+[Show strategic recommendations]
+"See how it's connecting our financial performance data with competitive threats and recommending specific actions. This would normally take hours of analysis."
+[Generate podcast]
+"Now for the game-changer - let me create an executive podcast briefing..."
+[Play 2-3 minutes of generated audio]
+"Listen to how it presents complex financial relationships in conversational language. This is perfect for listening during your commute or between meetings."
+Key Points to Emphasize:
+
+Speed: "What took us 45 minutes to prepare took the AI 5 minutes"
+Comprehensiveness: "It caught connections we might have missed"
+Accessibility: "Complex financial analysis becomes executive conversation"
+Mobility: "Strategic intelligence you can consume anywhere"
+
+These sample documents and prompts will give you a compelling, realistic demonstration that shows immediate value to your CXO audience.
+
 
 
 https://www.heromotocorp.com/en-in/company/investors/annual-report.html
