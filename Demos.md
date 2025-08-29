@@ -64,7 +64,7 @@ By the end of this session, you will:
 *"Beyond Brainstorming: AI-Powered Innovation"*
 
 ### The Business Challenge
-> "We have to launched a new product targeting Gen Z and create a marketing campaign for the same"
+> "We have to launch a new product targeting Gen Z and create a marketing campaign for the same"
 
 
 ##### Basic Creative Prompt (❌ Generic)
