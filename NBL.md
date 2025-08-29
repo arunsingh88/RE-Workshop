@@ -1,5 +1,5 @@
 
-## "The Power of Context: From Basic Queries to Strategic Insights"
+## The Power of Context: From Basic Queries to Strategic Insights
 
 ### **Opening (5 minutes)**
 **Objective:** Set the stage for understanding how AI transforms with better context
