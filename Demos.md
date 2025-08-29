@@ -165,8 +165,8 @@ For each: Core idea, Gen Z appeal, business model, differentiation factor."
 We need to respond to a competitor who just launched a Gen Z-focused product.
 
 SITUATION ANALYSIS:
-- Our competitor's product: [describe briefly]
-- Our company strengths: [list 2-3 key advantages]  
+- Our competitor's product: Honda CB350 and Triumph Speed 400
+- Our company strengths: [list 2-3 key advantages]   example :We are one of the oldest bike manufacturers in India and have followers from all the age groups
 - Market gap: Gen Z feels underserved by current offerings
 
 INNOVATION CHALLENGE: Develop a disruptive response that:
