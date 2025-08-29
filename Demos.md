@@ -57,6 +57,68 @@ By the end of this session, you will:
 
 ---
 
+
+#### Round 2: AI-Enhanced Creative Process
+
+##### Basic Creative Prompt (❌ Generic)
+```
+"Generate 5 product ideas for Gen Z consumers."
+```
+
+##### Context-Rich Creative Prompt (✅ Better)
+```
+"As a product strategist for a [YOUR INDUSTRY] company, generate innovative 
+product concepts for Gen Z (ages 18-26) that address their unique values:
+
+CONTEXT:
+- Gen Z prioritizes authenticity, sustainability, and social impact
+- They're digital natives but crave real-world experiences  
+- Budget-conscious but willing to pay for values alignment
+- Skeptical of traditional marketing
+
+Generate 5 product concepts that are:
+1. Genuinely innovative (not just digital versions)
+2. Aligned with Gen Z values
+3. Feasible for a mid-size company to launch
+4. Different from what competitors are doing
+
+For each: Core idea, Gen Z appeal, business model, differentiation factor."
+```
+
+##### Strategic Innovation Prompt (🎯 Optimal)
+```
+"You're leading a product innovation session for our executive team. 
+We need to respond to a competitor who just launched a Gen Z-focused product.
+
+SITUATION ANALYSIS:
+- Our competitor's product: Honda CB350 and Triumph Speed 400
+- Our company strengths: [list 2-3 key advantages]   example :We are one of the oldest bike manufacturers in India and have followers from all the age groups
+- Market gap: Gen Z feels underserved by current offerings
+
+INNOVATION CHALLENGE: Develop a disruptive response that:
+1. Leverages our unique strengths they can't easily copy
+2. Addresses an unmet need they're missing
+3. Creates a defensible market position  
+4. Could launch within 12-18 months
+
+DELIVERABLES:
+- 3 breakthrough product concepts with business rationale
+- Visual/experience descriptions for each
+- Go-to-market approach that builds authentic Gen Z connection
+- Competitive advantages that make imitation difficult
+- Success metrics and timeline
+
+Think like a startup: bold, fast, different."
+```
+
+### Innovation Results Comparison
+
+| Method | Time Investment | Ideas Generated | Strategic Value |
+|--------|----------------|-----------------|-----------------|
+| **Traditional** | 30 minutes | 3-4 standard ideas | Limited differentiation |
+| **AI-Enhanced** | 15 minutes | 15+ strategic concepts | Competitive frameworks |
+
+
 ## Live Demonstration #1: Contract Analysis
 *"From Hours to Minutes: Intelligent Contract Review"*
 
@@ -132,65 +194,6 @@ OUTPUT:
 - Influencer partnerships
 - **Total Ideas:** 3-4 standard concepts
 
-#### Round 2: AI-Enhanced Creative Process
-
-##### Basic Creative Prompt (❌ Generic)
-```
-"Generate 5 product ideas for Gen Z consumers."
-```
-
-##### Context-Rich Creative Prompt (✅ Better)
-```
-"As a product strategist for a [YOUR INDUSTRY] company, generate innovative 
-product concepts for Gen Z (ages 18-26) that address their unique values:
-
-CONTEXT:
-- Gen Z prioritizes authenticity, sustainability, and social impact
-- They're digital natives but crave real-world experiences  
-- Budget-conscious but willing to pay for values alignment
-- Skeptical of traditional marketing
-
-Generate 5 product concepts that are:
-1. Genuinely innovative (not just digital versions)
-2. Aligned with Gen Z values
-3. Feasible for a mid-size company to launch
-4. Different from what competitors are doing
-
-For each: Core idea, Gen Z appeal, business model, differentiation factor."
-```
-
-##### Strategic Innovation Prompt (🎯 Optimal)
-```
-"You're leading a product innovation session for our executive team. 
-We need to respond to a competitor who just launched a Gen Z-focused product.
-
-SITUATION ANALYSIS:
-- Our competitor's product: Honda CB350 and Triumph Speed 400
-- Our company strengths: [list 2-3 key advantages]   example :We are one of the oldest bike manufacturers in India and have followers from all the age groups
-- Market gap: Gen Z feels underserved by current offerings
-
-INNOVATION CHALLENGE: Develop a disruptive response that:
-1. Leverages our unique strengths they can't easily copy
-2. Addresses an unmet need they're missing
-3. Creates a defensible market position  
-4. Could launch within 12-18 months
-
-DELIVERABLES:
-- 3 breakthrough product concepts with business rationale
-- Visual/experience descriptions for each
-- Go-to-market approach that builds authentic Gen Z connection
-- Competitive advantages that make imitation difficult
-- Success metrics and timeline
-
-Think like a startup: bold, fast, different."
-```
-
-### Innovation Results Comparison
-
-| Method | Time Investment | Ideas Generated | Strategic Value |
-|--------|----------------|-----------------|-----------------|
-| **Traditional** | 30 minutes | 3-4 standard ideas | Limited differentiation |
-| **AI-Enhanced** | 15 minutes | 15+ strategic concepts | Competitive frameworks |
 
 **Executive Insight:** *AI doesn't think for you—it helps you think bigger and faster*
 
