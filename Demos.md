@@ -67,7 +67,9 @@ By the end of this session, you will:
 
 ### The Business Challenge
 > "We have to launch a new product targeting Gen Z and create a marketing campaign for the same"
-> *Activity*: There is a business challenge - Develop a new product for Gen Z and creative
+> 
+### Activity
+ There is a business challenge - Develop a new product for Gen Z and creative
 marketing campaign for the same. In defined groups,you can do this activity by using
 Gemini to brainstorm and visualize new ideas
 
