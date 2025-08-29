@@ -58,7 +58,14 @@ By the end of this session, you will:
 ---
 
 
-#### Round 2: AI-Enhanced Creative Process
+#### Round 1: AI-Enhanced Creative Process
+
+## Live Demonstration #1: Creative Ideation Sprint  
+*"Beyond Brainstorming: AI-Powered Innovation"*
+
+### The Business Challenge
+> "We have to launched a new product targeting Gen Z and create a marketing campaign for the same"
+
 
 ##### Basic Creative Prompt (❌ Generic)
 ```
@@ -179,20 +186,7 @@ OUTPUT:
 
 ---
 
-## Live Demonstration #2: Creative Ideation Sprint  
-*"Beyond Brainstorming: AI-Powered Innovation"*
 
-### The Business Challenge
-> "Our main competitor just launched a product targeting Gen Z. We need fresh ideas for our response—fast."
-
-### Traditional vs AI-Enhanced Process
-
-#### Round 1: Traditional Brainstorming (5 minutes)
-**Typical Executive Results:**
-- Generic social media integration
-- Mobile app development  
-- Influencer partnerships
-- **Total Ideas:** 3-4 standard concepts
 
 
 **Executive Insight:** *AI doesn't think for you—it helps you think bigger and faster*
