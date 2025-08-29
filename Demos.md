@@ -20,7 +20,7 @@ By the end of this session, you will:
 
 ### 🧠 Large Language Models (LLMs) - "The Digital Brain"
 
-**What it is:** Think of an LLM like a highly educated consultant who has read every business document, contract, and industry report ever written, but can instantly recall and synthesize that information.
+**What it is:** Think of an LLM is like hiring the world's smartest intern who has read everything ever written and never forgets—but still needs clear instructions and supervision.
 
 **Business Translation:**
 - Processes and understands human language at massive scale
