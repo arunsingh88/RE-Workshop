@@ -2,9 +2,7 @@
 ## From Analysis to Innovation: AI in Action
 
 *"The question isn't whether AI will transform your industry—it's whether you'll lead that transformation or follow it."
-Activity: There is a business challenge - Develop a new product for Gen Z and creative
-marketing campaign for the same. In defined groups,you can do this activity by using
-Gemini to brainstorm and visualize new ideas*
+*
 
 
 ## Workshop Objectives
@@ -66,8 +64,12 @@ By the end of this session, you will:
 ## Live Demonstration #1: Creative Ideation Sprint  
 *"Beyond Brainstorming: AI-Powered Innovation"*
 
+
 ### The Business Challenge
 > "We have to launch a new product targeting Gen Z and create a marketing campaign for the same"
+> *Activity*: There is a business challenge - Develop a new product for Gen Z and creative
+marketing campaign for the same. In defined groups,you can do this activity by using
+Gemini to brainstorm and visualize new ideas
 
 
 ##### Basic Creative Prompt (❌ Generic)
