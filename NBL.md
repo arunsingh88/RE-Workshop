@@ -12,6 +12,8 @@
 **Setup Time:** 2 minutes | **Demo Time:** 10 minutes | **Discussion:** 3 minutes
 
 ### **Activity Setup**
+- To demonstrate how AI can synthesize qualitative, unstructured data (like
+customer tweets, comments, feedback)
 - Create NotebookLM Notebook: "Customer Voice Analysis"
 - Upload customer sentiment files from drive folder
 - **Executive Role:** "Imagine you're preparing for a board meeting and need customer insights"
