@@ -1,7 +1,10 @@
 # AI Capabilities Workshop (https://gemini.google.com/app)
 ## From Analysis to Innovation: AI in Action
 
-*"The question isn't whether AI will transform your industry—it's whether you'll lead that transformation or follow it."*
+*"The question isn't whether AI will transform your industry—it's whether you'll lead that transformation or follow it."
+Activity: There is a business challenge - Develop a new product for Gen Z and creative
+marketing campaign for the same. In defined groups,you can do this activity by using
+Gemini to brainstorm and visualize new ideas*
 
 
 ## Workshop Objectives
